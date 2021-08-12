@@ -14,7 +14,7 @@
 
 - Pour un exemple de communication entre une station au sol et un Crazyflie à travers la Crazyradio, regardez cet [exemple](https://github.com/bitcraze/crazyflie-firmware/tree/master/examples/app_appchannel_test).
 
-- Si le drone ne veut pas décoller ou que les données des capteurs de distance semblent erronées lorsqu'au sol: essayer de faire décoller le drone quelques centimètres au dessus du sol, à l'aide d'une petite par exemple. Si ça fonctionne, ça indique le ranging deck a possiblement été déformé par la batterie.
+- Si le drone ne veut pas décoller ou que les données des capteurs de distance semblent erronées lorsqu'au sol: essayer de faire décoller le drone quelques centimètres au dessus du sol, à l'aide d'une petite boîte par exemple. Si ça fonctionne, ça indique le ranging deck a possiblement été déformé par la batterie.
 
 - Si vous souhaitez utiliser Buzz sur les Crazyflies, il vous faut utiliser la [version pour micro-controleur](https://github.com/MISTLab/BittyBuzz).
 
