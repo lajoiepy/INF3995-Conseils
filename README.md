@@ -16,7 +16,7 @@
 
 - Si le drone ne veut pas décoller ou que les données des capteurs de distance semblent erronées lorsqu'au sol: essayer de faire décoller le drone quelques centimètres au dessus du sol, à l'aide d'une petite par exemple. Si ça fonctionne, ça indique le ranging deck a possiblement été déformé par la batterie.
 
-- Pour utiliser Buzz sur les Crazyflies, il vous faut utiliser la [version pour micro-controleur](https://github.com/MISTLab/BittyBuzz).
+- Si vous souhaitez utiliser Buzz sur les Crazyflies, il vous faut utiliser la [version pour micro-controleur](https://github.com/MISTLab/BittyBuzz).
 
 - Pour flash le drone par le biais de la radio, il vous sera utile de consulter [la documentation du bootloader](https://www.bitcraze.io/documentation/repository/crazyflie-clients-python/master/functional-areas/cfloader/).
 
