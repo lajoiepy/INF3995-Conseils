@@ -4,7 +4,7 @@
 
 - Lors de l'assemblage d'un Crazyflie, faites très attention d'installer les expansion decks (optical flow et ranging) du bon côté. Voir [indications](https://www.bitcraze.io/documentation/tutorials/getting-started-with-expansion-decks/).
 
-- Pour changer la configuration persistente d'un Crazyflie (adresse radio, canal, etc.): Suivez ces [indications](https://github.com/bitcraze/crazyflie-lib-python/blob/master/docs/development/eeprom.md) en utilisant ce [script](https://github.com/bitcraze/crazyflie-lib-python/blob/master/examples/write-eeprom.py).
+- Pour changer la configuration persistente d'un Crazyflie (adresse radio, canal, etc.): Suivez ces [indications](https://github.com/bitcraze/crazyflie-lib-python/blob/master/docs/development/eeprom.md) en utilisant ce [script](https://github.com/bitcraze/crazyflie-lib-python/blob/master/examples/memory/write-eeprom.py).
 
 - Pour démarrer avec le Crazyfly et installer les outils de diagnostique suivez ce [tutoriel](https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/)
 
