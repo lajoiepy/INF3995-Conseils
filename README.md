@@ -6,6 +6,8 @@
 
 - Pour changer la configuration persistente d'un Crazyflie (adresse radio, canal, etc.): Suivez ces [indications](https://github.com/bitcraze/crazyflie-lib-python/blob/master/docs/development/eeprom.md) en utilisant ce [script](https://github.com/bitcraze/crazyflie-lib-python/blob/master/examples/memory/write-eeprom.py).
 
+- La relation entre le voltage des batteries et la capacité est non-linéaire. Regardez-ici pour une table de conversion https://blog.ampow.com/lipo-voltage-chart/
+
 - Pour démarrer avec le Crazyfly et installer les outils de diagnostique suivez ce [tutoriel](https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/)
 
 - Il est conseillé de faire un premier test avec [app_push_demo](https://github.com/bitcraze/crazyflie-firmware/tree/master/examples/demos/app_push_demo) pour vérifier que le matériel fonctionne bien.
